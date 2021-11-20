@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ComposeCookBook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ComposeDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NewPermissionApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eazypermissions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eazypermissions-forked" vcs="Git" />
+  </component>
+</project>
